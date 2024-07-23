@@ -30,6 +30,8 @@ I will add a GUI at 10 stars 😭
 
 <img width="844" alt="image" src="https://github.com/user-attachments/assets/31880a40-109f-440d-b497-5fbb835701c3">
 
+# ⚠️ EDUCATIONAL PURPOSES ONLY 
+
 # Credits
 
 Me [ AG597 ]
