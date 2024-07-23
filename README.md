@@ -10,7 +10,7 @@ Simply input your prompt into the text box along with an img link [ if you have 
 
 After this wait for the response to be recieved
 
-I will add a GUI at 10 starts 😭
+I will add a GUI at 10 stars 😭
 
 # Menu
 
