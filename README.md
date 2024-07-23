@@ -10,6 +10,8 @@ Simply input your prompt into the text box along with an img link [ if you have 
 
 After this wait for the response to be recieved
 
+I will add a GUI at 10 starts 😭
+
 # Menu
 
 <img width="341" alt="image" src="https://github.com/user-attachments/assets/8bffbf5b-a267-467b-9152-c166fc48d5de">
